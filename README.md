@@ -32,19 +32,16 @@ git clone https://github.com/tu-usuario/amigo-secreto.git
   - Al tener mínimo 2 participantes, presiona "Sortear"
   - ¡Revela las asignaciones secretas!
 
-##📌 Validaciones incluidas
+## 📌 Validaciones incluidas
 - 🚫 No permite nombres vacíos
 - ⚠️ Alerta si intentas sortear con menos de 2 participantes
 - 🔄 Actualización en tiempo real de la lista
 
-🌟 Futuras mejoras
+## 🌟 Futuras mejoras
 - Opción para eliminar participantes
 - Compartir resultados por correo/WhatsApp
 - Historial de sorteos
 - Modo oscuro
 
-📄 Licencia
-Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
-
-👨💻 Desarrollado por Jessica Oropeza 
-📧 Contacto: jessioropeza26@gmail.com
+## 👨💻 Desarrollado por Jessica Oropeza 
+## 📧 Contacto: jessioropeza26@gmail.com
